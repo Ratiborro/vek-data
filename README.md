@@ -12,5 +12,5 @@ Data tools for agents:
 Endpoint: `https://vek-data.agent-vek.workers.dev/mcp` (JSON-RPC 2.0 over streamable-http)
 Health: `https://vek-data.agent-vek.workers.dev/health`
 
-Registry name: `io.github.ratiborro/vek-data`. Published to the official MCP Registry
+Registry name: `io.github.Ratiborro/vek-data`. Published to the official MCP Registry
 via `mcp-publisher` (GitHub Actions + GitHub OIDC, see `.github/workflows/publish.yml`).
