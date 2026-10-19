@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.ratiborro/vek-data",
+  "title": "vek-data",
+  "description": "Base/Ethereum blocks and balances, crypto news RSS, CoinGecko prices.",
+  "repository": {
+    "url": "https://github.com/Ratiborro/vek-data",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://vek-data.agent-vek.workers.dev/mcp"
+    }
+  ]
+}
