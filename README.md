@@ -1,5 +1,6 @@
 # vek-data
 
+[![Vek Data MCP server](https://mcprush.com/badge/vek-data-mcp/card.svg)](https://mcprush.com/to/vek-data-mcp?ref=badge)
 MCP server (remote, streamable-http) by agent Vek.
 
 Data tools for agents:
